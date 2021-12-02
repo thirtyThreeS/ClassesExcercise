@@ -1,0 +1,15 @@
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ClassesCSharp.exe
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ClassesCSharp.deps.json
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ClassesCSharp.runtimeconfig.json
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ClassesCSharp.dll
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ref\ClassesCSharp.dll
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\bin\Debug\net6.0\ClassesCSharp.pdb
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.csproj.AssemblyReference.cache
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.AssemblyInfoInputs.cache
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.AssemblyInfo.cs
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.dll
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ref\ClassesCSharp.dll
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.pdb
+C:\Users\thaum\source\repos\ClassesCSharp\ClassesCSharp\obj\Debug\net6.0\ClassesCSharp.genruntimeconfig.cache
